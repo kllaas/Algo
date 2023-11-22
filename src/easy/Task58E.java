@@ -1,9 +1,7 @@
 package easy;
 
 public class Task58E {
-
     public static void main(String[] args) {
-
     }
 
     public int lengthOfLastWord(String s) {
